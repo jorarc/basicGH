@@ -1,3 +1,12 @@
+""" 
+This code runs in Rhino 8, thanks to RhinoCode. NOT in Rhino 7.
+Inputs:
+	- Points = List of Points3d
+Output:
+	- Center = Center of the sphere (Point3d)
+	- Radius = Radius of the sphere (Double)
+"""
+
 # requirements: numpy
 
 #  Import packages
